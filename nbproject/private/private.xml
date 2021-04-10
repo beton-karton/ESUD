@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/OpenServer/OpenServer/domains/esud/database/migrations/2021_04_09_164611_create_msgs_table.php</file>
+            <file>file:/D:/OpenServer/OpenServer/domains/esud/resources/views/create.blade.php</file>
+            <file>file:/D:/OpenServer/OpenServer/domains/esud/app/Models/Msg.php</file>
+            <file>file:/D:/OpenServer/OpenServer/domains/esud/app/Providers/AuthServiceProvider.php</file>
+            <file>file:/D:/OpenServer/OpenServer/domains/esud/database/seeders/DatabaseSeeder.php</file>
+            <file>file:/D:/OpenServer/OpenServer/domains/esud/resources/views/index.blade.php</file>
+            <file>file:/D:/OpenServer/OpenServer/domains/esud/routes/web.php</file>
+            <file>file:/D:/OpenServer/OpenServer/domains/esud/app/Http/Controllers/Auth/RegisterController.php</file>
+            <file>file:/D:/OpenServer/OpenServer/domains/esud/database/factories/MsgFactory.php</file>
+            <file>file:/D:/OpenServer/OpenServer/domains/esud/resources/views/auth/register.blade.php</file>
+            <file>file:/D:/OpenServer/OpenServer/domains/esud/app/Http/Controllers/MsgController.php</file>
+            <file>file:/D:/OpenServer/OpenServer/domains/esud/app/Providers/RouteServiceProvider.php</file>
+        </group>
+    </open-files>
+</project-private>
